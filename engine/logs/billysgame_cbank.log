@@ -1,0 +1,49 @@
+[2018-04-15 23:06:56] =============2018-04-15 23:06:56============
+[2018-04-15 23:06:56] change_bank(2, billysgame, 5,spin)
+[2018-04-15 23:06:56] bank: 200.0000
+[2018-04-15 23:06:56] bank_sum: 4.5
+[2018-04-15 23:06:56] balance_bonus: 0.00
+[2018-04-15 23:06:56] Can not jackpot now ! Because following reason.
+[2018-04-15 23:06:56] bet_sum is 4.5
+[2018-04-15 23:06:56] free_sum is0
+[2018-04-15 23:06:56] spin_bank_sum is 0.225
+[2018-04-15 23:06:56] jack_sum is2.7
+[2018-04-15 23:06:56] incomeSQL: UPDATE LOW_PRIORITY rooms set income=income+0.9 where id=1
+[2018-04-15 23:07:02] =============2018-04-15 23:07:02============
+[2018-04-15 23:07:02] change_bank(2, billysgame, 0.2,spin)
+[2018-04-15 23:07:02] bank: 199.8650
+[2018-04-15 23:07:02] bank_sum: 0.18
+[2018-04-15 23:07:02] balance_bonus: 0.00
+[2018-04-15 23:07:02] Can not jackpot now ! Because following reason.
+[2018-04-15 23:07:02] bet_sum is 0.18
+[2018-04-15 23:07:02] free_sum is0
+[2018-04-15 23:07:02] spin_bank_sum is 0.009
+[2018-04-15 23:07:02] jack_sum is0.108
+[2018-04-15 23:07:02] incomeSQL: UPDATE LOW_PRIORITY rooms set income=income+0.036 where id=1
+[2018-04-15 23:07:04] =============2018-04-15 23:07:04============
+[2018-04-15 23:07:04] change_bank(2, billysgame, 0.2,spin)
+[2018-04-15 23:07:04] bank: 199.8740
+[2018-04-15 23:07:04] bank_sum: 0.18
+[2018-04-15 23:07:04] balance_bonus: 0.00
+[2018-04-15 23:07:04] Can not jackpot now ! Because following reason.
+[2018-04-15 23:07:04] bet_sum is 0.18
+[2018-04-15 23:07:04] free_sum is0
+[2018-04-15 23:07:04] spin_bank_sum is 0.009
+[2018-04-15 23:07:04] jack_sum is0.108
+[2018-04-15 23:07:04] incomeSQL: UPDATE LOW_PRIORITY rooms set income=income+0.036 where id=1
+[2018-04-15 23:07:06] =============2018-04-15 23:07:06============
+[2018-04-15 23:07:06] change_bank(2, billysgame, 0.2,spin)
+[2018-04-15 23:07:06] bank: 199.8830
+[2018-04-15 23:07:06] bank_sum: 0.18
+[2018-04-15 23:07:06] balance_bonus: 0.00
+[2018-04-15 23:07:06] Can not jackpot now ! Because following reason.
+[2018-04-15 23:07:06] bet_sum is 0.18
+[2018-04-15 23:07:06] free_sum is0
+[2018-04-15 23:07:06] spin_bank_sum is 0.009
+[2018-04-15 23:07:06] jack_sum is0.108
+[2018-04-15 23:07:06] incomeSQL: UPDATE LOW_PRIORITY rooms set income=income+0.036 where id=1
+[2018-04-15 23:07:06] =============2018-04-15 23:07:06============
+[2018-04-15 23:07:06] change_bank(2, billysgame, -0.2,spin)
+[2018-04-15 23:07:06] bank: 199.8920
+[2018-04-15 23:07:06] bank_sum: -0.2
+[2018-04-15 23:07:06] balance_bonus: 0.00

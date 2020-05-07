@@ -1,0 +1,363 @@
+[2018-04-16 23:32:04] =============2018-04-16 23:32:04============
+[2018-04-16 23:32:04] change_bank(2, magicidol, 0.1,spin)
+[2018-04-16 23:32:04] bank: 199.9250
+[2018-04-16 23:32:04] bank_sum: 0.1
+[2018-04-16 23:32:04] balance_bonus: 0.00
+[2018-04-16 23:32:04] Can not jackpot now ! Because following reason.
+[2018-04-16 23:32:04] bet_sum is 0.1
+[2018-04-16 23:32:04] free_sum is0
+[2018-04-16 23:32:04] spin_bank_sum is 0.005
+[2018-04-16 23:32:04] jack_sum is0.06
+[2018-04-16 23:32:04] incomeSQL: UPDATE LOW_PRIORITY rooms set income=income+0.02 where id=1
+[2018-04-16 23:32:07] =============2018-04-16 23:32:07============
+[2018-04-16 23:32:07] change_bank(2, magicidol, 0.1,spin)
+[2018-04-16 23:32:07] bank: 199.9300
+[2018-04-16 23:32:07] bank_sum: 0.1
+[2018-04-16 23:32:07] balance_bonus: 0.00
+[2018-04-16 23:32:07] Can not jackpot now ! Because following reason.
+[2018-04-16 23:32:07] bet_sum is 0.1
+[2018-04-16 23:32:07] free_sum is0
+[2018-04-16 23:32:07] spin_bank_sum is 0.005
+[2018-04-16 23:32:07] jack_sum is0.06
+[2018-04-16 23:32:07] incomeSQL: UPDATE LOW_PRIORITY rooms set income=income+0.02 where id=1
+[2018-04-16 23:32:13] =============2018-04-16 23:32:13============
+[2018-04-16 23:32:13] change_bank(2, magicidol, 0.1,spin)
+[2018-04-16 23:32:13] bank: 199.9350
+[2018-04-16 23:32:13] bank_sum: 0.1
+[2018-04-16 23:32:13] balance_bonus: 0.00
+[2018-04-16 23:32:13] Can not jackpot now ! Because following reason.
+[2018-04-16 23:32:13] bet_sum is 0.1
+[2018-04-16 23:32:13] free_sum is0
+[2018-04-16 23:32:13] spin_bank_sum is 0.005
+[2018-04-16 23:32:13] jack_sum is0.06
+[2018-04-16 23:32:13] incomeSQL: UPDATE LOW_PRIORITY rooms set income=income+0.02 where id=1
+[2018-04-16 23:32:17] =============2018-04-16 23:32:17============
+[2018-04-16 23:32:17] change_bank(2, magicidol, 0.1,spin)
+[2018-04-16 23:32:17] bank: 199.9400
+[2018-04-16 23:32:17] bank_sum: 0.1
+[2018-04-16 23:32:17] balance_bonus: 0.00
+[2018-04-16 23:32:17] Can not jackpot now ! Because following reason.
+[2018-04-16 23:32:17] bet_sum is 0.1
+[2018-04-16 23:32:17] free_sum is0
+[2018-04-16 23:32:17] spin_bank_sum is 0.005
+[2018-04-16 23:32:17] jack_sum is0.06
+[2018-04-16 23:32:17] incomeSQL: UPDATE LOW_PRIORITY rooms set income=income+0.02 where id=1
+[2018-04-16 23:32:20] =============2018-04-16 23:32:20============
+[2018-04-16 23:32:20] change_bank(2, magicidol, 0.1,spin)
+[2018-04-16 23:32:20] bank: 199.9450
+[2018-04-16 23:32:20] bank_sum: 0.1
+[2018-04-16 23:32:20] balance_bonus: 0.00
+[2018-04-16 23:32:20] Can not jackpot now ! Because following reason.
+[2018-04-16 23:32:20] bet_sum is 0.1
+[2018-04-16 23:32:20] free_sum is0
+[2018-04-16 23:32:20] spin_bank_sum is 0.005
+[2018-04-16 23:32:20] jack_sum is0.06
+[2018-04-16 23:32:20] incomeSQL: UPDATE LOW_PRIORITY rooms set income=income+0.02 where id=1
+[2018-04-16 23:32:20] =============2018-04-16 23:32:20============
+[2018-04-16 23:32:20] change_bank(2, magicidol, -0.4,spin)
+[2018-04-16 23:32:20] bank: 199.9500
+[2018-04-16 23:32:20] bank_sum: -0.4
+[2018-04-16 23:32:20] balance_bonus: 0.00
+[2018-04-16 23:32:30] =============2018-04-16 23:32:30============
+[2018-04-16 23:32:30] change_bank(2, magicidol, 0.1,spin)
+[2018-04-16 23:32:30] bank: 199.5500
+[2018-04-16 23:32:30] bank_sum: 0.1
+[2018-04-16 23:32:30] balance_bonus: 0.00
+[2018-04-16 23:32:30] Can not jackpot now ! Because following reason.
+[2018-04-16 23:32:30] bet_sum is 0.1
+[2018-04-16 23:32:30] free_sum is0
+[2018-04-16 23:32:30] spin_bank_sum is 0.005
+[2018-04-16 23:32:30] jack_sum is0.06
+[2018-04-16 23:32:30] incomeSQL: UPDATE LOW_PRIORITY rooms set income=income+0.02 where id=1
+[2018-04-16 23:32:33] =============2018-04-16 23:32:33============
+[2018-04-16 23:32:33] change_bank(2, magicidol, 0.1,spin)
+[2018-04-16 23:32:33] bank: 199.5550
+[2018-04-16 23:32:33] bank_sum: 0.1
+[2018-04-16 23:32:33] balance_bonus: 0.00
+[2018-04-16 23:32:33] Can not jackpot now ! Because following reason.
+[2018-04-16 23:32:33] bet_sum is 0.1
+[2018-04-16 23:32:33] free_sum is0
+[2018-04-16 23:32:33] spin_bank_sum is 0.005
+[2018-04-16 23:32:33] jack_sum is0.06
+[2018-04-16 23:32:33] incomeSQL: UPDATE LOW_PRIORITY rooms set income=income+0.02 where id=1
+[2018-04-16 23:32:33] =============2018-04-16 23:32:33============
+[2018-04-16 23:32:33] change_bank(2, magicidol, -0.1,spin)
+[2018-04-16 23:32:33] bank: 199.5600
+[2018-04-16 23:32:33] bank_sum: -0.1
+[2018-04-16 23:32:33] balance_bonus: 0.00
+[2018-04-16 23:32:39] =============2018-04-16 23:32:39============
+[2018-04-16 23:32:39] change_bank(2, magicidol, 0.1,spin)
+[2018-04-16 23:32:39] bank: 199.4600
+[2018-04-16 23:32:39] bank_sum: 0.1
+[2018-04-16 23:32:39] balance_bonus: 0.00
+[2018-04-16 23:32:39] Can not jackpot now ! Because following reason.
+[2018-04-16 23:32:39] bet_sum is 0.1
+[2018-04-16 23:32:39] free_sum is0
+[2018-04-16 23:32:39] spin_bank_sum is 0.005
+[2018-04-16 23:32:39] jack_sum is0.06
+[2018-04-16 23:32:39] incomeSQL: UPDATE LOW_PRIORITY rooms set income=income+0.02 where id=1
+[2018-04-16 23:32:43] =============2018-04-16 23:32:43============
+[2018-04-16 23:32:43] change_bank(2, magicidol, 0.1,spin)
+[2018-04-16 23:32:43] bank: 199.4650
+[2018-04-16 23:32:43] bank_sum: 0.1
+[2018-04-16 23:32:43] balance_bonus: 0.00
+[2018-04-16 23:32:43] Can not jackpot now ! Because following reason.
+[2018-04-16 23:32:43] bet_sum is 0.1
+[2018-04-16 23:32:43] free_sum is0
+[2018-04-16 23:32:43] spin_bank_sum is 0.005
+[2018-04-16 23:32:43] jack_sum is0.06
+[2018-04-16 23:32:43] incomeSQL: UPDATE LOW_PRIORITY rooms set income=income+0.02 where id=1
+[2018-04-16 23:32:53] =============2018-04-16 23:32:53============
+[2018-04-16 23:32:53] change_bank(2, magicidol, 0.1,spin)
+[2018-04-16 23:32:53] bank: 199.4700
+[2018-04-16 23:32:53] bank_sum: 0.1
+[2018-04-16 23:32:53] balance_bonus: 0.00
+[2018-04-16 23:32:53] Can not jackpot now ! Because following reason.
+[2018-04-16 23:32:53] bet_sum is 0.1
+[2018-04-16 23:32:53] free_sum is0
+[2018-04-16 23:32:53] spin_bank_sum is 0.005
+[2018-04-16 23:32:53] jack_sum is0.06
+[2018-04-16 23:32:53] incomeSQL: UPDATE LOW_PRIORITY rooms set income=income+0.02 where id=1
+[2018-04-16 23:32:56] =============2018-04-16 23:32:56============
+[2018-04-16 23:32:56] change_bank(2, magicidol, 0.1,spin)
+[2018-04-16 23:32:56] bank: 199.4750
+[2018-04-16 23:32:56] bank_sum: 0.1
+[2018-04-16 23:32:56] balance_bonus: 0.00
+[2018-04-16 23:32:56] Can not jackpot now ! Because following reason.
+[2018-04-16 23:32:56] bet_sum is 0.1
+[2018-04-16 23:32:56] free_sum is0
+[2018-04-16 23:32:56] spin_bank_sum is 0.005
+[2018-04-16 23:32:56] jack_sum is0.06
+[2018-04-16 23:32:56] incomeSQL: UPDATE LOW_PRIORITY rooms set income=income+0.02 where id=1
+[2018-04-16 23:32:59] =============2018-04-16 23:32:59============
+[2018-04-16 23:32:59] change_bank(2, magicidol, 0.1,spin)
+[2018-04-16 23:32:59] bank: 199.4800
+[2018-04-16 23:32:59] bank_sum: 0.1
+[2018-04-16 23:32:59] balance_bonus: 0.00
+[2018-04-16 23:32:59] Can not jackpot now ! Because following reason.
+[2018-04-16 23:32:59] bet_sum is 0.1
+[2018-04-16 23:32:59] free_sum is0
+[2018-04-16 23:32:59] spin_bank_sum is 0.005
+[2018-04-16 23:32:59] jack_sum is0.06
+[2018-04-16 23:32:59] incomeSQL: UPDATE LOW_PRIORITY rooms set income=income+0.02 where id=1
+[2018-04-16 23:33:03] =============2018-04-16 23:33:03============
+[2018-04-16 23:33:03] change_bank(2, magicidol, 0.1,spin)
+[2018-04-16 23:33:03] bank: 199.4850
+[2018-04-16 23:33:03] bank_sum: 0.1
+[2018-04-16 23:33:03] balance_bonus: 0.00
+[2018-04-16 23:33:03] Can not jackpot now ! Because following reason.
+[2018-04-16 23:33:03] bet_sum is 0.1
+[2018-04-16 23:33:03] free_sum is0
+[2018-04-16 23:33:03] spin_bank_sum is 0.005
+[2018-04-16 23:33:03] jack_sum is0.06
+[2018-04-16 23:33:03] incomeSQL: UPDATE LOW_PRIORITY rooms set income=income+0.02 where id=1
+[2018-04-16 23:33:08] =============2018-04-16 23:33:08============
+[2018-04-16 23:33:08] change_bank(2, magicidol, 0.1,spin)
+[2018-04-16 23:33:08] bank: 199.4900
+[2018-04-16 23:33:08] bank_sum: 0.1
+[2018-04-16 23:33:08] balance_bonus: 0.00
+[2018-04-16 23:33:08] Can not jackpot now ! Because following reason.
+[2018-04-16 23:33:08] bet_sum is 0.1
+[2018-04-16 23:33:08] free_sum is0
+[2018-04-16 23:33:08] spin_bank_sum is 0.005
+[2018-04-16 23:33:08] jack_sum is0.06
+[2018-04-16 23:33:08] incomeSQL: UPDATE LOW_PRIORITY rooms set income=income+0.02 where id=1
+[2018-04-16 23:33:08] =============2018-04-16 23:33:08============
+[2018-04-16 23:33:08] change_bank(2, magicidol, -1,spin)
+[2018-04-16 23:33:08] bank: 199.4950
+[2018-04-16 23:33:08] bank_sum: -1
+[2018-04-16 23:33:08] balance_bonus: 0.00
+[2018-04-16 23:33:15] =============2018-04-16 23:33:15============
+[2018-04-16 23:33:15] change_bank(2, magicidol, 0.1,spin)
+[2018-04-16 23:33:15] bank: 198.4950
+[2018-04-16 23:33:15] bank_sum: 0.1
+[2018-04-16 23:33:15] balance_bonus: 0.00
+[2018-04-16 23:33:15] Can not jackpot now ! Because following reason.
+[2018-04-16 23:33:15] bet_sum is 0.1
+[2018-04-16 23:33:15] free_sum is0
+[2018-04-16 23:33:15] spin_bank_sum is 0.005
+[2018-04-16 23:33:15] jack_sum is0.06
+[2018-04-16 23:33:15] incomeSQL: UPDATE LOW_PRIORITY rooms set income=income+0.02 where id=1
+[2018-04-16 23:33:19] =============2018-04-16 23:33:19============
+[2018-04-16 23:33:19] change_bank(2, magicidol, 0.1,spin)
+[2018-04-16 23:33:19] bank: 198.5000
+[2018-04-16 23:33:19] bank_sum: 0.1
+[2018-04-16 23:33:19] balance_bonus: 0.00
+[2018-04-16 23:33:19] Can not jackpot now ! Because following reason.
+[2018-04-16 23:33:19] bet_sum is 0.1
+[2018-04-16 23:33:19] free_sum is0
+[2018-04-16 23:33:19] spin_bank_sum is 0.005
+[2018-04-16 23:33:19] jack_sum is0.06
+[2018-04-16 23:33:19] incomeSQL: UPDATE LOW_PRIORITY rooms set income=income+0.02 where id=1
+[2018-04-16 23:33:22] =============2018-04-16 23:33:22============
+[2018-04-16 23:33:22] change_bank(2, magicidol, 0.1,spin)
+[2018-04-16 23:33:22] bank: 198.5050
+[2018-04-16 23:33:22] bank_sum: 0.1
+[2018-04-16 23:33:22] balance_bonus: 0.00
+[2018-04-16 23:33:22] Can not jackpot now ! Because following reason.
+[2018-04-16 23:33:22] bet_sum is 0.1
+[2018-04-16 23:33:22] free_sum is0
+[2018-04-16 23:33:22] spin_bank_sum is 0.005
+[2018-04-16 23:33:22] jack_sum is0.06
+[2018-04-16 23:33:22] incomeSQL: UPDATE LOW_PRIORITY rooms set income=income+0.02 where id=1
+[2018-04-16 23:33:24] =============2018-04-16 23:33:24============
+[2018-04-16 23:33:24] change_bank(2, magicidol, 0.1,spin)
+[2018-04-16 23:33:24] bank: 198.5100
+[2018-04-16 23:33:24] bank_sum: 0.1
+[2018-04-16 23:33:24] balance_bonus: 0.00
+[2018-04-16 23:33:24] Can not jackpot now ! Because following reason.
+[2018-04-16 23:33:24] bet_sum is 0.1
+[2018-04-16 23:33:24] free_sum is0
+[2018-04-16 23:33:24] spin_bank_sum is 0.005
+[2018-04-16 23:33:24] jack_sum is0.06
+[2018-04-16 23:33:24] incomeSQL: UPDATE LOW_PRIORITY rooms set income=income+0.02 where id=1
+[2018-04-16 23:33:28] =============2018-04-16 23:33:28============
+[2018-04-16 23:33:28] change_bank(2, magicidol, 0.1,spin)
+[2018-04-16 23:33:28] bank: 198.5150
+[2018-04-16 23:33:28] bank_sum: 0.1
+[2018-04-16 23:33:28] balance_bonus: 0.00
+[2018-04-16 23:33:28] Can not jackpot now ! Because following reason.
+[2018-04-16 23:33:28] bet_sum is 0.1
+[2018-04-16 23:33:28] free_sum is0
+[2018-04-16 23:33:28] spin_bank_sum is 0.005
+[2018-04-16 23:33:28] jack_sum is0.06
+[2018-04-16 23:33:28] incomeSQL: UPDATE LOW_PRIORITY rooms set income=income+0.02 where id=1
+[2018-04-16 23:33:31] =============2018-04-16 23:33:31============
+[2018-04-16 23:33:31] change_bank(2, magicidol, 0.1,spin)
+[2018-04-16 23:33:31] bank: 198.5200
+[2018-04-16 23:33:31] bank_sum: 0.1
+[2018-04-16 23:33:31] balance_bonus: 0.00
+[2018-04-16 23:33:31] Can not jackpot now ! Because following reason.
+[2018-04-16 23:33:31] bet_sum is 0.1
+[2018-04-16 23:33:31] free_sum is0
+[2018-04-16 23:33:31] spin_bank_sum is 0.005
+[2018-04-16 23:33:31] jack_sum is0.06
+[2018-04-16 23:33:31] incomeSQL: UPDATE LOW_PRIORITY rooms set income=income+0.02 where id=1
+[2018-04-16 23:33:40] =============2018-04-16 23:33:40============
+[2018-04-16 23:33:40] change_bank(2, magicidol, 0.1,spin)
+[2018-04-16 23:33:40] bank: 198.5250
+[2018-04-16 23:33:40] bank_sum: 0.1
+[2018-04-16 23:33:40] balance_bonus: 0.00
+[2018-04-16 23:33:40] Can not jackpot now ! Because following reason.
+[2018-04-16 23:33:40] bet_sum is 0.1
+[2018-04-16 23:33:40] free_sum is0
+[2018-04-16 23:33:40] spin_bank_sum is 0.005
+[2018-04-16 23:33:40] jack_sum is0.06
+[2018-04-16 23:33:40] incomeSQL: UPDATE LOW_PRIORITY rooms set income=income+0.02 where id=1
+[2018-04-16 23:33:41] =============2018-04-16 23:33:41============
+[2018-04-16 23:33:41] change_bank(2, magicidol, -2,spin)
+[2018-04-16 23:33:41] bank: 198.5300
+[2018-04-16 23:33:41] bank_sum: -2
+[2018-04-16 23:33:41] balance_bonus: 0.00
+[2018-04-16 23:33:50] =============2018-04-16 23:33:50============
+[2018-04-16 23:33:50] change_bank(2, magicidol, -66,spin)
+[2018-04-16 23:33:50] bank: 196.5300
+[2018-04-16 23:33:50] bank_sum: -66
+[2018-04-16 23:33:50] balance_bonus: 0.00
+[2018-04-16 23:34:02] =============2018-04-16 23:34:02============
+[2018-04-16 23:34:02] change_bank(2, magicidol, -9,spin)
+[2018-04-16 23:34:02] bank: 130.5300
+[2018-04-16 23:34:02] bank_sum: -9
+[2018-04-16 23:34:02] balance_bonus: 0.00
+[2018-04-16 23:34:14] =============2018-04-16 23:34:14============
+[2018-04-16 23:34:14] change_bank(2, magicidol, -0.9,spin)
+[2018-04-16 23:34:14] bank: 121.5300
+[2018-04-16 23:34:14] bank_sum: -0.9
+[2018-04-16 23:34:14] balance_bonus: 0.00
+[2018-04-16 23:34:29] =============2018-04-16 23:34:29============
+[2018-04-16 23:34:29] change_bank(2, magicidol, -0.3,spin)
+[2018-04-16 23:34:29] bank: 120.6300
+[2018-04-16 23:34:29] bank_sum: -0.3
+[2018-04-16 23:34:29] balance_bonus: 0.00
+[2018-05-08 02:46:37] =============2018-05-08 02:46:37============
+[2018-05-08 02:46:37] change_bank(2, magicidol, 0.1,spin)
+[2018-05-08 02:46:37] bank: 119.9750
+[2018-05-08 02:46:37] bank_sum: 0.1
+[2018-05-08 02:46:37] balance_bonus: 0.00
+[2018-05-08 02:46:37] Can not jackpot now ! Because following reason.
+[2018-05-08 02:46:37] bet_sum is 0.1
+[2018-05-08 02:46:37] free_sum is0
+[2018-05-08 02:46:37] spin_bank_sum is 0.005
+[2018-05-08 02:46:37] jack_sum is0.06
+[2018-05-08 02:46:37] incomeSQL: UPDATE LOW_PRIORITY rooms set income=income+0.02 where id=1
+[2018-05-08 02:46:40] =============2018-05-08 02:46:40============
+[2018-05-08 02:46:40] change_bank(2, magicidol, 0.1,spin)
+[2018-05-08 02:46:40] bank: 119.9800
+[2018-05-08 02:46:40] bank_sum: 0.1
+[2018-05-08 02:46:40] balance_bonus: 0.00
+[2018-05-08 02:46:40] Can not jackpot now ! Because following reason.
+[2018-05-08 02:46:40] bet_sum is 0.1
+[2018-05-08 02:46:40] free_sum is0
+[2018-05-08 02:46:40] spin_bank_sum is 0.005
+[2018-05-08 02:46:40] jack_sum is0.06
+[2018-05-08 02:46:40] incomeSQL: UPDATE LOW_PRIORITY rooms set income=income+0.02 where id=1
+[2018-05-08 02:46:42] =============2018-05-08 02:46:42============
+[2018-05-08 02:46:42] change_bank(2, magicidol, 0.1,spin)
+[2018-05-08 02:46:42] bank: 119.9850
+[2018-05-08 02:46:42] bank_sum: 0.1
+[2018-05-08 02:46:42] balance_bonus: 0.00
+[2018-05-08 02:46:42] Can not jackpot now ! Because following reason.
+[2018-05-08 02:46:42] bet_sum is 0.1
+[2018-05-08 02:46:42] free_sum is0
+[2018-05-08 02:46:42] spin_bank_sum is 0.005
+[2018-05-08 02:46:42] jack_sum is0.06
+[2018-05-08 02:46:42] incomeSQL: UPDATE LOW_PRIORITY rooms set income=income+0.02 where id=1
+[2018-05-08 02:46:45] =============2018-05-08 02:46:45============
+[2018-05-08 02:46:45] change_bank(2, magicidol, 0.1,spin)
+[2018-05-08 02:46:45] bank: 119.9900
+[2018-05-08 02:46:45] bank_sum: 0.1
+[2018-05-08 02:46:45] balance_bonus: 0.00
+[2018-05-08 02:46:45] Can not jackpot now ! Because following reason.
+[2018-05-08 02:46:45] bet_sum is 0.1
+[2018-05-08 02:46:45] free_sum is0
+[2018-05-08 02:46:45] spin_bank_sum is 0.005
+[2018-05-08 02:46:45] jack_sum is0.06
+[2018-05-08 02:46:45] incomeSQL: UPDATE LOW_PRIORITY rooms set income=income+0.02 where id=1
+[2018-05-08 02:46:45] =============2018-05-08 02:46:45============
+[2018-05-08 02:46:45] change_bank(2, magicidol, -0.3,spin)
+[2018-05-08 02:46:45] bank: 119.9950
+[2018-05-08 02:46:45] bank_sum: -0.3
+[2018-05-08 02:46:45] balance_bonus: 0.00
+[2018-05-08 02:46:55] =============2018-05-08 02:46:55============
+[2018-05-08 02:46:55] change_bank(2, magicidol, 0.1,spin)
+[2018-05-08 02:46:55] bank: 119.6950
+[2018-05-08 02:46:55] bank_sum: 0.1
+[2018-05-08 02:46:55] balance_bonus: 0.00
+[2018-05-08 02:46:55] Can not jackpot now ! Because following reason.
+[2018-05-08 02:46:55] bet_sum is 0.1
+[2018-05-08 02:46:55] free_sum is0
+[2018-05-08 02:46:55] spin_bank_sum is 0.005
+[2018-05-08 02:46:55] jack_sum is0.06
+[2018-05-08 02:46:55] incomeSQL: UPDATE LOW_PRIORITY rooms set income=income+0.02 where id=1
+[2018-05-08 02:46:55] =============2018-05-08 02:46:55============
+[2018-05-08 02:46:55] change_bank(2, magicidol, -0.1,spin)
+[2018-05-08 02:46:55] bank: 119.7000
+[2018-05-08 02:46:55] bank_sum: -0.1
+[2018-05-08 02:46:55] balance_bonus: 0.00
+[2018-05-08 02:47:05] =============2018-05-08 02:47:05============
+[2018-05-08 02:47:05] change_bank(2, magicidol, 0.1,spin)
+[2018-05-08 02:47:05] bank: 119.6000
+[2018-05-08 02:47:05] bank_sum: 0.1
+[2018-05-08 02:47:05] balance_bonus: 0.00
+[2018-05-08 02:47:05] Can not jackpot now ! Because following reason.
+[2018-05-08 02:47:05] bet_sum is 0.1
+[2018-05-08 02:47:05] free_sum is0
+[2018-05-08 02:47:05] spin_bank_sum is 0.005
+[2018-05-08 02:47:05] jack_sum is0.06
+[2018-05-08 02:47:05] incomeSQL: UPDATE LOW_PRIORITY rooms set income=income+0.02 where id=1
+[2018-05-08 02:47:07] =============2018-05-08 02:47:07============
+[2018-05-08 02:47:07] change_bank(2, magicidol, 0.1,spin)
+[2018-05-08 02:47:07] bank: 119.6050
+[2018-05-08 02:47:07] bank_sum: 0.1
+[2018-05-08 02:47:07] balance_bonus: 0.00
+[2018-05-08 02:47:07] Can not jackpot now ! Because following reason.
+[2018-05-08 02:47:07] bet_sum is 0.1
+[2018-05-08 02:47:07] free_sum is0
+[2018-05-08 02:47:07] spin_bank_sum is 0.005
+[2018-05-08 02:47:07] jack_sum is0.06
+[2018-05-08 02:47:07] incomeSQL: UPDATE LOW_PRIORITY rooms set income=income+0.02 where id=1
+[2018-05-08 02:47:07] =============2018-05-08 02:47:07============
+[2018-05-08 02:47:07] change_bank(2, magicidol, -0.15,spin)
+[2018-05-08 02:47:07] bank: 119.6100
+[2018-05-08 02:47:07] bank_sum: -0.15
+[2018-05-08 02:47:07] balance_bonus: 0.00

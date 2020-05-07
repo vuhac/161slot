@@ -1,0 +1,60 @@
+[2018-05-08 02:49:09] =============2018-05-08 02:49:09============
+[2018-05-08 02:49:09] change_bank(2, luckycoins, 0.1,spin)
+[2018-05-08 02:49:09] bank: 119.4600
+[2018-05-08 02:49:09] bank_sum: 0.1
+[2018-05-08 02:49:09] balance_bonus: 0.00
+[2018-05-08 02:49:09] Can not jackpot now ! Because following reason.
+[2018-05-08 02:49:09] bet_sum is 0.1
+[2018-05-08 02:49:09] free_sum is0
+[2018-05-08 02:49:09] spin_bank_sum is 0.005
+[2018-05-08 02:49:09] jack_sum is0.06
+[2018-05-08 02:49:09] incomeSQL: UPDATE LOW_PRIORITY rooms set income=income+0.02 where id=1
+[2018-05-08 02:49:12] =============2018-05-08 02:49:12============
+[2018-05-08 02:49:12] change_bank(2, luckycoins, 0.1,spin)
+[2018-05-08 02:49:12] bank: 119.4650
+[2018-05-08 02:49:12] bank_sum: 0.1
+[2018-05-08 02:49:12] balance_bonus: 0.00
+[2018-05-08 02:49:12] Can not jackpot now ! Because following reason.
+[2018-05-08 02:49:12] bet_sum is 0.1
+[2018-05-08 02:49:12] free_sum is0
+[2018-05-08 02:49:12] spin_bank_sum is 0.005
+[2018-05-08 02:49:12] jack_sum is0.06
+[2018-05-08 02:49:12] incomeSQL: UPDATE LOW_PRIORITY rooms set income=income+0.02 where id=1
+[2018-05-08 02:49:14] =============2018-05-08 02:49:14============
+[2018-05-08 02:49:14] change_bank(2, luckycoins, 0.1,spin)
+[2018-05-08 02:49:14] bank: 119.4700
+[2018-05-08 02:49:14] bank_sum: 0.1
+[2018-05-08 02:49:14] balance_bonus: 0.00
+[2018-05-08 02:49:14] Can not jackpot now ! Because following reason.
+[2018-05-08 02:49:14] bet_sum is 0.1
+[2018-05-08 02:49:14] free_sum is0
+[2018-05-08 02:49:14] spin_bank_sum is 0.005
+[2018-05-08 02:49:14] jack_sum is0.06
+[2018-05-08 02:49:14] incomeSQL: UPDATE LOW_PRIORITY rooms set income=income+0.02 where id=1
+[2018-05-08 02:49:17] =============2018-05-08 02:49:17============
+[2018-05-08 02:49:17] change_bank(2, luckycoins, 0.1,spin)
+[2018-05-08 02:49:17] bank: 119.4750
+[2018-05-08 02:49:17] bank_sum: 0.1
+[2018-05-08 02:49:17] balance_bonus: 0.00
+[2018-05-08 02:49:17] Can not jackpot now ! Because following reason.
+[2018-05-08 02:49:17] bet_sum is 0.1
+[2018-05-08 02:49:17] free_sum is0
+[2018-05-08 02:49:17] spin_bank_sum is 0.005
+[2018-05-08 02:49:17] jack_sum is0.06
+[2018-05-08 02:49:17] incomeSQL: UPDATE LOW_PRIORITY rooms set income=income+0.02 where id=1
+[2018-05-08 02:49:19] =============2018-05-08 02:49:19============
+[2018-05-08 02:49:19] change_bank(2, luckycoins, 0.1,spin)
+[2018-05-08 02:49:19] bank: 119.4800
+[2018-05-08 02:49:19] bank_sum: 0.1
+[2018-05-08 02:49:19] balance_bonus: 0.00
+[2018-05-08 02:49:19] Can not jackpot now ! Because following reason.
+[2018-05-08 02:49:19] bet_sum is 0.1
+[2018-05-08 02:49:19] free_sum is0
+[2018-05-08 02:49:19] spin_bank_sum is 0.005
+[2018-05-08 02:49:19] jack_sum is0.06
+[2018-05-08 02:49:19] incomeSQL: UPDATE LOW_PRIORITY rooms set income=income+0.02 where id=1
+[2018-05-08 02:49:19] =============2018-05-08 02:49:19============
+[2018-05-08 02:49:19] change_bank(2, luckycoins, -0.2,spin)
+[2018-05-08 02:49:19] bank: 119.4850
+[2018-05-08 02:49:19] bank_sum: -0.2
+[2018-05-08 02:49:19] balance_bonus: 0.00
