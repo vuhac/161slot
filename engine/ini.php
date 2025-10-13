@@ -93,8 +93,8 @@ if($auth_token)
   //если передается токен, то отправим запрос для проверки авторизован ли юзер
   $auth_serv=isset($conf['auth_serv'])? $conf['auth_serv']: 'http://login';
   $res=file_get_contents($auth_serv."/api/user.php?token=".$auth_token);
-  $a_res=json_decode($res);
-  if($a_res[0]='success')
+  $a_res=json_decode($res, true);
+  if(is_array($a_res) && isset($a_res[0]) && $a_res[0]==='success')
     {
     $login=$_SESSION['login']=$a_res[1];
     }
